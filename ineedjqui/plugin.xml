@@ -1,0 +1,16 @@
+<plugin name='ineedjqui' version='0.1' grailsVersion='2.2 &gt; *'>
+  <author>Your name</author>
+  <title>Ineedjqui Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/ineedjqui</documentation>
+  <type>IneedjquiGrailsPlugin</type>
+  <resources />
+  <repositories>
+    <repository name='grailsCentral' url='http://grails.org/plugins' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
